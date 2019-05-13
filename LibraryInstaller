@@ -1,0 +1,8 @@
+pip install --upgrade pip
+pip install netaddr
+pip install regex
+pip install ujson
+pip install multiprocessing
+pip install futures
+pip install lxml
+pip install requests
